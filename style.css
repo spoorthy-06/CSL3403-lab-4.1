@@ -1,0 +1,25 @@
+div{
+    font-style: italic;
+    background-color: aquamarine;
+    color: black;
+}
+.container{
+    width: 100%;
+}
+body{
+    
+    background-color: floralwhite;
+    font-style: italic;
+    text-align: center;
+}
+table,th{
+    font-style: italic;
+    font-size: 100%;
+    
+}
+table{
+    background-color: floralwhite;
+}
+h4,h2{
+    text-align: left;
+}
